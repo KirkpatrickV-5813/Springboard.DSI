@@ -1,4 +1,4 @@
-/pycon-pandas-tutorial/build/
 /pycon-pandas-tutorial/data/
 /pycon-pandas-tutorial/images/
 /pycon-pandas-tutorial/.ipynb_checkpoints/
+/pycon-pandas-tutorial/build/*.gz
